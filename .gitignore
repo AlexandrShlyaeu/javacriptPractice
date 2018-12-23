@@ -1,0 +1,14 @@
+node_modules
+yarn.lock
+yarn-error.log
+*.log
+report/**/*
+log/**/*
+log/**/*
+shots/**/*
+chrome/**/*
+.idea
+.log
+.vscode
+package-lock.json
+
